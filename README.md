@@ -6,4 +6,4 @@ Jeu video simplifié du célèbre The Binding of isaac. <br />
 Interface graphique et commandes au clavier.
 
 ## Competences
-Java
+Java, Java AWT
